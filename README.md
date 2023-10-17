@@ -1,4 +1,6 @@
-# Vim color-scheme "Aikige"
+# Vim color-scheme "aikige"
+
+Very simple color scheme "aikige" and "aikige_light".
 
 ## Getting Started
 
@@ -10,4 +12,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'aikige/color.vim
 ".. Other plugins
 call plug#end()
+
+colorscheme aikige
 ```
